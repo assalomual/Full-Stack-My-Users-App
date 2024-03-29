@@ -5,7 +5,7 @@ In this project, a test application will be created to create, search, view, upd
 # Task
 The following functions are implemented in the program:
 - Create users
-- Search for users
+- Search for users 
 - View all users
 - Update users
 - Delete users
